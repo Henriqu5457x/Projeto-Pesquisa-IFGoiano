@@ -20,7 +20,7 @@ class Mesa{
     console.log(`Nova altura ${this.altura}`)
    }
 }
-//abaixo estamos definindo 3 messas
+//abaixo estamos definindo 3 mesas
 const mesa1 = new Mesa("madeira",1.0,1.7,0.5,4,"Mogan")
     mesa1.regularAltura(1.3)
     mesa1.verificarAltura();
